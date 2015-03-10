@@ -1,7 +1,7 @@
 # HTMLSource
 Display HTML source for an HTML page for a specific URL.
 
-example.php is the example for using the HTMLSource
+example.php is the example for using HTMLSource
 
 A brief summarization of this initial version.
 
